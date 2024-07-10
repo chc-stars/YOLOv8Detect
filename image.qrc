@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/softIcon.ico</file>
+        <file>resource/image/play.ico</file>
+        <file>resource/image/stop.ico</file>
+        <file>resource/image/flush.ico</file>
+        <file>resource/image/open.ico</file>
+    </qresource>
+</RCC>
